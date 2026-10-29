@@ -1,0 +1,11 @@
+date,time,category,duration_minutes,reason,intentional
+10/22/26,18:45,Work/Study,35,Reading,Yes
+10/23/26,9:15,Messaging,10,Notification,Yes
+10/23/26,14:00,Work/Study,55,Assignment,Yes
+10/23/26,20:30,Entertainment,40,Video,No
+10/24/26,11:10,Social,15,Boredom,No
+10/24/26,16:20,Utility,8,Banking app,Yes
+10/25/26,10:00,Work/Study,45,Research,Yes
+10/25/26,15:30,Entertainment,60,Music,Yes
+10/26/26,8:20,Messaging,6,Notification,Yes
+10/26/26,9:45,Social,5,Notification,No

@@ -1,0 +1,16 @@
+date,time,category,duration_minutes,reason,intentional
+2026-10-14,08:15,Work/Study,45,Study,Yes
+2026-10-14,12:30,Social,15,Boredom,No
+2026-10-15,09:00,Messaging,5,Notification,Yes
+2026-10-15,16:45,Entertainment,30,Relaxation,Yes
+2026-10-16,11:20,Work/Study,60,Research,Yes
+2026-10-17,14:10,Social,20,Boredom,No
+2026-10-18,10:05,Utility,10,Checking schedule,Yes
+2026-10-18,19:30,Entertainment,45,Unwinding,Yes
+2026-10-19,08:40,Messaging,8,Notification,Yes
+2026-10-19,15:15,Work/Study,25,Assignment,Yes
+2026-10-20,12:00,Social,10,Boredom,No
+2026-10-21,09:30,Work/Study,50,Lecture prep,Yes
+2026-10-21,17:00,Messaging,12,Chatting,No
+2026-10-22,08:30,Social,12,Boredom,No
+2026-10-22,14:20,Entertainment,25,Break,Yes
